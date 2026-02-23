@@ -1,0 +1,29 @@
+name: flutter_weather_forecast
+description: "A Flutter weather forecasting application"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+    shared preference: ^2.2.2
+
+  # For REST API calls (Weather API)
+  http: ^1.2.1
+
+  # iOS style icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Recommended lints (stable)
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
