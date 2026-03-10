@@ -61,3 +61,10 @@ Open-Meteo Weather API
 Used to fetch current weather information.
 https://api.open-meteo.com/v1/forecast?latitude=22.30&longitude=70.80&current_weather=true
 
+Screenshots
+
+You can add screenshots of your application here.
+Example:-
+Home Screen
+
+Weather Result Screen
